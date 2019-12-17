@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter jasmine_sprout twolip wayne whyred,$(TARGET_DEVICE)),)
+ifneq ($(filter jasmine_sprout tulip wayne whyred,$(TARGET_DEVICE)),)
 
 endif
